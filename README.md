@@ -17,15 +17,9 @@
   <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://github.com/Homailson/Homailson/blob/main/img/My%20project-2.png?width=800&height=800">
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Homailson&repo=main" />
-</a>
 
-
-<div>
-  <a href="https://github.com/homailson">
 ![Homailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
-</div>
+
 
 
 <div> 
