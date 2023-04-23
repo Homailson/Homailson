@@ -14,5 +14,5 @@
   <img align="center" alt="Homa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Homa-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Homa-Django" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  
-  <img align="right" alt="Homa-Avatar" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1op4xpyeAYWYaEKN6JCe9-qHK6X0r9WJF/view?usp=sharing">
+  <img align="right" alt="Homa-Avatar" height="150" style="border-radius:50px;" src="https://ibb.co/mDLF6vK">
 </div>
