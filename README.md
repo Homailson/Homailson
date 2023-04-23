@@ -6,6 +6,11 @@
 - 🌱 Estou estudando diversos assuntos (Git e GitHub, Linux, AWS, etc)
 - 😄 Pronouns: ele/dele (he/him)
 
+
+
+![Homailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homailson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>   
   <img align="center" alt="Homa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Homa-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -17,9 +22,6 @@
   <img align="right" alt="Homa-pic" height="200" style="border-radius:50px;" src="https://github.com/Homailson/Homailson/blob/main/img/My%20project-2.png?width=800&height=800">
 </div>
 
-![Homailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homailson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div> 
   <a href="https://www.instagram.com/homailson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
@@ -28,3 +30,4 @@
 
   
 </div>
+
