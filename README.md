@@ -14,15 +14,8 @@
   <img align="center" alt="Homa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Homa-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Homa-Django" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://github.com/Homailson/Homailson/blob/main/img/My%20project-2.png?width=800&height=800">
+  <img align="right" alt="Homa-pic" height="200" style="border-radius:50px;" src="https://github.com/Homailson/Homailson/blob/main/img/My%20project-2.png?width=800&height=800">
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 ![Homailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homailson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
