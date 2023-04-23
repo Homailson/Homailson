@@ -1,4 +1,4 @@
-### Olá! Sou Homailson, seja bem vindo ao meu GitHub!
+### Olá, Sou Homailson!
 
 
 
