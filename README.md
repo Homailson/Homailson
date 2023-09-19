@@ -3,7 +3,7 @@
 
 
 - 🔭 Atuo como professor de Matemática e estou cursando o 5º período de Ciências de Dados
-- 🌱 Em outros momentos estudos diversos assuntos (Git e GitHub, Linux, AWS, Python, CloudFormation, etc)
+- 🌱 Em outros momentos, eu estudo diversos assuntos (Git e GitHub, Linux, AWS, Python, CloudFormation, etc)
 - Sou ex-aluno do Programa de Bolsas ofertado pela Compass UOL, onde obtive minha certificação AWS Cloud Practitioneer.
 - 😄 Pronouns: ele/dele (he/him)
 
