@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atuo como professor de Matemática, na parte da manhã, e estou cursando o 6º período de Ciências de Dados pela UNINTER.
+- 🔭 Atuo como professor de Matemática no ensino básico. Sou formado em Matemática pela UNISAL e Ciências de Dados pela UNINTER. Mestre em Ciências pela USP.
 - 🌱 Tenho estudado diversas tecnologias (Git e GitHub, Linux, AWS, Python, Flask, Jinja, PySpark, Docker, PowerBi, CloudFormation, etc)
 - Sou ex-aluno do Programa de Bolsas (Data & Analytics) ofertado pela Compass UOL, onde obtive minha certificação AWS Cloud Practitioneer.
 - 😄 Pronouns: ele/dele (he/him)
