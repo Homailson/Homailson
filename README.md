@@ -35,9 +35,9 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 
 ### 📊 GitHub Stats
 
-![Homailson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
+![Homailson's GitHub stats](https://github-readme-stats-nine-zeta-88.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Homailson&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-zeta-88.vercel.app/api/top-langs/?username=Homailson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
