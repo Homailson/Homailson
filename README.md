@@ -7,7 +7,7 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 - 🎓 Licenciado em Matemática – **UNISAL**  
 - 🎓 Tecnólogo em Ciência de Dados – **UNINTER**  
 - 🎓 Mestre em Ciências – **USP**  
-- 💼 Programador Trainee em **Data & AI** na **Compass UOL**
+- 💼 Engenheiro de dados Trainee em **Data & AI** na **Compass UOL**
 
 - 🌱 Tecnologias e ferramentas com as quais estudo e trabalho:
   **Git & GitHub, Linux, AWS, Python, Flask, Jinja, PySpark, Docker, Power BI, CloudFormation**
