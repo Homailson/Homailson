@@ -9,9 +9,6 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 - 🎓 Mestre em Ciências – **USP**  
 - 💼 Engenheiro de dados Trainee em **Data & AI** na **Compass UOL**
 
-- 🌱 Tecnologias e ferramentas com as quais estudo e trabalho:
-  **Git & GitHub, Linux, AWS, Python, Flask, Jinja, PySpark, Docker, Power BI, CloudFormation**
-
 - ☁️ Ex-aluno do **Programa de Bolsas em Data & Analytics – Compass UOL**
 - 🏅 Certificações AWS
 - 😄 Pronomes: **ele/dele (he/him)**
@@ -27,6 +24,11 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 
 ---
 
+### 🛠️ Principais Tecnologias
+
+<img src="img/principais_tecnlogias_github.jpg" alt="AWS Cloud Practitioner" width="500"/>
+---
+
 ### 🌐 Portfólio pessoal
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meuportifolio-t242.onrender.com/)
@@ -39,11 +41,6 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 
 [![Top Langs](https://github-readme-stats-nine-zeta-88.vercel.app/api/top-langs/?username=Homailson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 🛠️ Principais Tecnologias
-
-<img src="img/principais_tecnlogias_github.jpg" alt="AWS Cloud Practitioner" width="500"/>
 ---
 
 ### 📫 Contato
