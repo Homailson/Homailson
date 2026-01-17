@@ -27,6 +27,7 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 ### 🛠️ Principais Tecnologias
 
 <img src="img/principais_tecnlogias_github.jpg" alt="AWS Cloud Practitioner" width="500"/>
+
 ---
 
 ### 🌐 Portfólio pessoal
