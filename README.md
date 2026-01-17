@@ -1,6 +1,6 @@
 ### Olá, sou Homailson! 👋
 
-Sou **professor de Matemática no ensino básico**, atuando no período da manhã, e **profissional em na área de Dados & Inteligência Artificial**.  
+Sou **professor de Matemática no ensino básico**, atuando no período da manhã, e **profissional na área de Dados & Inteligência Artificial**.  
 Minha trajetória integra **educação, tecnologia e ciência de dados**, com foco em automação, análise e soluções práticas.
 
 - 🔭 Professor de Matemática no ensino básico  
