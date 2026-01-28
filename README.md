@@ -1,7 +1,7 @@
 ### Olá, sou Homailson! 👋
 
-Sou **professor nos anos finais ensino básico** (manhã) e **profissional na área de Dados & Inteligência Artificial**(tarde).  
-Minha trajetória integra **educação, tecnologia e ciência de dados**.
+Sou **professor nos anos finais ensino básico**(manhã) e **profissional na área de Dados & Inteligência Artificial**(tarde).  
+Minha trajetória integra **Educação, Tecnologia e Ciência de Dados**.
 
 - 🎓 Licenciado em Matemática – **UNISAL**
 - 🎓 Segunda Licenciatura em Pedagogia – **UNINTER**
@@ -35,7 +35,7 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**.
 ---
 
 ### 🌐 Portfólio pessoal
-
+- Confira meus projetos em:
 [![Portfolio](https://img.shields.io/badge/Portfólio-Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meuportifolio-t242.onrender.com/)
 
 ---
