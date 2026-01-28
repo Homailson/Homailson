@@ -1,12 +1,14 @@
 ### Olá, sou Homailson! 👋
 
-Sou **professor de Matemática no ensino básico**, atuando no período da manhã, e **profissional na área de Dados & Inteligência Artificial**.  
-Minha trajetória integra **educação, tecnologia e ciência de dados**, com foco em automação, análise e soluções práticas.
+Sou **professor nos anos finais ensino básico** (manhã) e **profissional na área de Dados & Inteligência Artificial**(tarde).  
+Minha trajetória integra **educação, tecnologia e ciência de dados**.
 
-- 🔭 Professor de Matemática no ensino básico  
-- 🎓 Licenciado em Matemática – **UNISAL**  
-- 🎓 Tecnólogo em Ciência de Dados – **UNINTER**  
-- 🎓 Mestre em Ciências – **USP**  
+- 🎓 Licenciado em Matemática – **UNISAL**
+- 🎓 Segunda Licenciatura em Pedagogia – **UNINTER**
+- 🎓 Tecnólogo em Ciência de Dados – **UNINTER**
+- 🎓 Pós-Gradudado em Ciência de Dados e Inteligência Artificial– **UNINTER**
+- 🎓 Mestre em Ciências – **USP**
+- 💼 Professor de **Matemática** na **Prefeitura Municipal de Lorena**
 - 💼 Engenheiro de dados Trainee em **Data & AI** na **Compass UOL**
 
 - ☁️ Ex-aluno do **Programa de Bolsas em Data & Analytics – Compass UOL**
@@ -26,22 +28,26 @@ Minha trajetória integra **educação, tecnologia e ciência de dados**, com fo
 
 ### 🛠️ Principais Tecnologias
 
+<p align="center">
 <img src="img/principais_tecnlogias_github.jpg" alt="AWS Cloud Practitioner" width="500"/>
+</p>
 
 ---
 
 ### 🌐 Portfólio pessoal
 
+<p align="center">
 [![Portfolio](https://img.shields.io/badge/Portfólio-Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meuportifolio-t242.onrender.com/)
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<p align="center">
 ![Homailson's GitHub stats](https://github-readme-stats-nine-zeta-88.vercel.app/api?username=Homailson&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats-nine-zeta-88.vercel.app/api/top-langs/?username=Homailson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ---
 
 ### 📫 Contato
