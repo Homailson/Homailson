@@ -34,8 +34,8 @@ Minha trajetória integra **Educação, Tecnologia e Ciência de Dados**.
 
 ---
 
-### 🌐 Portfólio pessoal
-- Confira meus projetos em:
+### 🌐 Confira meus projetos:
+
 [![Portfolio](https://img.shields.io/badge/Portfólio-Pessoal-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meuportifolio-t242.onrender.com/)
 
 ---
