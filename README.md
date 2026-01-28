@@ -1,12 +1,12 @@
 ### Olá, sou Homailson! 👋
 
-Sou **professor nos anos finais ensino básico** (manhã) e **profissional na área de Dados & Inteligência Artificial** (tarde).  
-Minha trajetória integra **Educação, Tecnologia e Ciência de Dados**.
+Sou **professor nos anos finais do ensino básico** (manhã) e **profissional na área de Dados & Inteligência Artificial** (tarde).  
+Minha trajetória integra **Educação, Tecnologia e Ciência de Dados**, com foco em **Análise, Engenharia de Dados e Aplicações em Cloud**.
 
 - 🎓 Licenciado em Matemática – **UNISAL**
 - 🎓 Segunda Licenciatura em Pedagogia – **UNINTER**
 - 🎓 Tecnólogo em Ciência de Dados – **UNINTER**
-- 🎓 Pós-Gradudado em Ciência de Dados e Inteligência Artificial– **UNINTER**
+- 🎓 Pós-Graduado em Ciência de Dados e Inteligência Artificial– **UNINTER**
 - 🎓 Mestre em Ciências – **USP**
 - 💼 Professor de **Matemática** (**Prefeitura Municipal de Lorena**)
 - 💼 Engenheiro de dados Trainee (**Compass UOL**)
