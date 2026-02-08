@@ -9,7 +9,7 @@ Minha trajetória integra **Educação, Tecnologia e Ciência de Dados**, com fo
 - 🎓 Pós-Graduado em Ciência de Dados e Inteligência Artificial– **UNINTER**
 - 🎓 Mestre em Ciências – **USP**
 - 💼 Professor de **Matemática** - **Prefeitura Municipal de Lorena**
-- 💼 Engenheiro de dados Trainee - **Compass UOL**
+- 💼 Engenheiro de dados - **Compass UOL**
 
 - ☁️ Ex-aluno do **Programa de Bolsas em Data & Analytics – Compass UOL**
 - 🏅 Certificações AWS
