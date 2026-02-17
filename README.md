@@ -2,7 +2,7 @@
 
 ### Engenheiro de Dados | Especialista em IA | Mestre pela USP
 
-Atualmente atuo como **Engenheiro de Dados na Compass UOL**. Minha trajetória une a precisão da Matemática com a escalabilidade da Engenharia de Dados para construir soluções de alto impacto em ambientes Cloud (AWS).
+Atualmente atuo como **Engenheiro de Dados na Compass UOL**. Minha trajetória une o rigor analítico do Mestrado na USP com a experiência prática em escalar pipelines de dados e soluções de IA em ambientes Cloud (AWS).
 
 ---
 
@@ -10,32 +10,37 @@ Atualmente atuo como **Engenheiro de Dados na Compass UOL**. Minha trajetória u
 
 #### ❄️ [NOAA Ice Lake - Pipeline Serverless & Apache Iceberg](https://github.com/Homailson/NOAAIceLake)
 **Engenharia de Dados (Cloud Native)**
-* **O que resolve:** Pipeline automatizado para coleta e processamento de dados meteorológicos globais da NOAA.
-* **Tech Stack:** AWS Lambda (Docker Images), Step Functions, S3, **Apache Iceberg**, DuckDB e AWS Glue.
-* **Destaque Técnico:** Implementação de arquitetura ACID em S3 usando Iceberg e orquestração serverless de ponta a ponta.
+* **O que resolve:** Pipeline automatizado para processamento de dados meteorológicos globais.
+* **Tech Stack:** AWS Lambda (Docker), Step Functions, S3, **Apache Iceberg**, DuckDB e AWS Glue.
+* **Destaque:** Implementação de arquitetura ACID sobre S3 e orquestração serverless de ponta a ponta.
+
+#### 🏫 [SchoolWarden - Gestão Analítica Educacional](https://github.com/Homailson/SchoolWarden)
+**Fullstack Data & Aplicação Real**
+* **O que resolve:** Sistema para gestão de ocorrências escolares com analytics integrado para tomada de decisão.
+* **Tech Stack:** Python (Flask), **MongoDB (Aggregation Pipelines)**, Dash/Plotly e Docker.
+* **Destaque:** Centralização de dados não estruturados e transformação em dashboards estratégicos para gestão escolar.
 
 #### 🏠 [Lorena Housing Data - Inteligência Imobiliária](https://github.com/Homailson/LorenaHousingData)
-**Ciência de Dados & Web Scraping**
-* **O que resolve:** Sistema de precificação imobiliária baseado em localização e amenidades para a cidade de Lorena-SP.
-* **Tech Stack:** Python, Selenium, Pandas, **Google Places API** e Scikit-learn.
-* **Destaque Técnico:** Automação completa desde o scraping (Viva Real) até o modelo preditivo de preços, cruzando dados geográficos para análise de valorização.
+**Data Science & Web Scraping**
+* **O que resolve:** Predição de preços imobiliários baseada em geolocalização e pontos de interesse (POIs).
+* **Tech Stack:** Selenium, Google Places API, Pandas e Scikit-learn.
+* **Destaque:** Cruzamento de dados de scraping com APIs geográficas para análise de valorização urbana.
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-* **Linguagens & Data Ops:** Python (PySpark, Pandas), SQL, Docker.
+* **Linguagens & Data Ops:** Python (PySpark, Pandas), SQL, Docker, Git.
 * **Cloud (AWS):** S3, Lambda, Glue, Step Functions, Athena, Bedrock (GenAI).
-* **Frameworks & Engines:** Apache Iceberg, DuckDB, Scikit-learn.
-* **Visualização:** Power BI, Matplotlib, Seaborn.
+* **Frameworks & DBs:** Apache Iceberg, DuckDB, MongoDB, PostgreSQL.
+* **Visualização:** Power BI, Dash/Plotly, Seaborn.
 
 ---
 
-### 🏅 Certificações AWS
-<p align="left">
-  <img src="img/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="100"/>
-  <img src="img/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="100"/>
-</p>
+### 🎓 Formação & Certificações
+* **Mestre em Ciências** – USP
+* **Pós-Graduado em IA e Ciência de Dados** – UNINTER
+* **Certificações:** AWS Certified Cloud Practitioner | AWS Certified AI Practitioner
 
 ---
 
@@ -48,7 +53,7 @@ Atualmente atuo como **Engenheiro de Dados na Compass UOL**. Minha trajetória u
 
 ---
 
-### 📫 Contato
+### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/homailsonlopes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:homailson@gmail.com)
