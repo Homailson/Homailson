@@ -65,8 +65,9 @@ Coleta e análise de dados imobiliários.
 ------------------------------------------------------------------------
 
 ## Formação
-
+-   Matemática - UNISAL
 -   Mestre em Ciências -- USP
+-   Tecnólogo em Ciências de Dados e Inteligência Artificial
 -   Pós-graduação em IA e Ciência de Dados -- UNINTER
 
 ------------------------------------------------------------------------
