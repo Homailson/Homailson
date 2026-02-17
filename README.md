@@ -43,7 +43,7 @@ Docker
 
 Coleta e análise de dados imobiliários.
 
-**Stack:** Selenium, Google Places API, Pandas, Scikit-learn
+**Stack:** Selenium, Google Places API, Pandas, Scikit-learn, Matplotlib
 
 -   Integração de scraping com dados geográficos
 -   Enriquecimento com pontos de interesse (POIs)
